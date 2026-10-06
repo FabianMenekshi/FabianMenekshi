@@ -107,9 +107,3 @@ A computational neuroscience project investigating whether anatomical communitie
 - Statistical learning and applied data science
 - Computational neuroscience and scientific computing
 - Building end-to-end data and AI systems
-
----
-
-## 📌 Currently
-
-I'm continuing to develop projects across **machine learning, data science, data engineering, databases, and business intelligence**. I'm especially interested in roles and projects where I can work across the full data lifecycle: from collecting, cleaning, modeling, and storing data to analyzing it, building dashboards, and developing ML/AI solutions on top of it.
